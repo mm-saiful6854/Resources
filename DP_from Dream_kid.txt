@@ -1,0 +1,19 @@
+//dp_list
+Fahim Bhai r blog-https://sites.google.com/site/smilitude/recursion_and_dp
+Shafyet
+http://www.shafaetsplanet.com/?p=1022
+http://www.shafaetsplanet.com/planetcoding/?p=1072
+ 
+https://sites.google.com/site/programinggconcept/0-1-knapsack
+https://sites.google.com/site/programinggconcept/algorithm
+ 
+Topcoder
+https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+ 
+Kormen(sourav vai)
+Halim(RHS bhai)
+ 
+problems
+//IUT//
+EasyDP-https://vjudge.net/contest/204162
+DP+searching-https://vjudge.net/contest/206605
