@@ -14,5 +14,6 @@ square root segmentation tutorials :     https://codeforces.com/blog/entry/16883
 
 square root segmentation problem List:   1. https://codeforces.com/contest/455/problem/D
                                          2. https://codeforces.com/contest/513/problem/F2
+                                         3. https://www.spoj.com/problems/RACETIME/
                                          
 Counting sort : 1.https://www.geeksforgeeks.org/counting-sort/
