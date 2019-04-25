@@ -17,3 +17,7 @@ square root segmentation problem List:   1. https://codeforces.com/contest/455/p
                                          3. https://www.spoj.com/problems/RACETIME/
                                          
 Counting sort : 1.https://www.geeksforgeeks.org/counting-sort/
+
+subset generates : 1. Iteratives - CP3
+                   2. Recursive  - https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/
+                   3. Backtracking - https://www.geeksforgeeks.org/backtracking-to-find-all-subsets/
