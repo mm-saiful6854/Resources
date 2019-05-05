@@ -21,3 +21,10 @@ Counting sort : 1.https://www.geeksforgeeks.org/counting-sort/
 subset generates : 1. Iteratives - CP3
                    2. Recursive  - https://www.geeksforgeeks.org/recursive-program-to-generate-power-set/
                    3. Backtracking - https://www.geeksforgeeks.org/backtracking-to-find-all-subsets/
+                   
+                   
+                   
+if A and B are double then to check A==B:
+ do : if(fabs(A-B)<1e-12){
+          
+ }
