@@ -28,3 +28,5 @@ if A and B are double then to check A==B:
  do : if(fabs(A-B)<1e-12){
           
  }
+ 
+ backtracking perform : n!, nCr , (p-1)(q-1)(r-1) ,subset generate : 2^n , p*q*r-1
