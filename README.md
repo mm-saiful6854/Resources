@@ -30,3 +30,11 @@ if A and B are double then to check A==B:
  }
  
  backtracking perform : n!, nCr , (p-1)(q-1)(r-1) ,subset generate : 2^n , p*q*r-1
+ 
+ combinatories : to calculate : nCr using array : if(r>n-r) r = n-r; // knew from bacs recursion videos  , katakati done through this 
+                                                                                                                line.
+                                                  for(i=1;i<=r;i++) // individual multiplication can occur overflow.
+                                                    {
+                                                        ans*= n-r+i;
+                                                        ans/=i;
+                                                    }
