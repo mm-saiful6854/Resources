@@ -38,3 +38,12 @@ if A and B are double then to check A==B:
                                                         ans*= n-r+i;
                                                         ans/=i;
                                                     }
+   
+   
+  
+  Dynamic Programming : 1D Range sum , 2D Range sum : 1. CP3 book
+                                                      2. https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+                                                      3. https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
+                                                      4. Josephus Problem :   josephus(n, k) = (josephus(n - 1, k) + k-1) % n + 1
+                                                                              josephus(1, k) = 1
+                                                      5. 
