@@ -46,4 +46,7 @@ if A and B are double then to check A==B:
                                                       3. https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
                                                       4. Josephus Problem :   josephus(n, k) = (josephus(n - 1, k) + k-1) % n + 1
                                                                               josephus(1, k) = 1
-                                                      5. 
+                              
+                       distinct subsequence : 1. https://www.geeksforgeeks.org/count-distinct-subsequences/
+                                                    problem : 1. https://www.spoj.com/problems/DSUBSEQ/
+                       
